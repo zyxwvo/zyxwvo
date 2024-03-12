@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @zyxwvo
+- 👀 I’m interested in AI/ML
+- 🌱 I’m currently learning Pytorch.
+- 💞️ I’m looking to collaborate on Open-Source Projects.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: nah
