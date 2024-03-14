@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zyxwvo (aka JVo)
+- 👋 Hi, I’m @zyxwvo (aka JVo) and I'm from California.
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning Pytorch.
 - 💞️ I’m looking to collaborate on Open-Source Projects.
