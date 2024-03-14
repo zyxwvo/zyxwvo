@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Pytorch.
 - 💞️ I’m looking to collaborate on Open-Source Projects.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: nah
+- ⚡ Fun fact: I go around GitHub and contribute to open-source projects because I love them!
 - 👸🏻 GitHub Stats:
 
 <p align="center">
