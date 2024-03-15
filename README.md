@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Open-Source Projects.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I go around GitHub and contribute to open-source projects because I love them!
-- 👸🏻 GitHub Stats:
+- 👸🏻 My GitHub Stats:
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyxwvo&theme=radical" alt="Hoang Son's GitHub Streak" />
